@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm NGUYEN VIET PHUC</h2>
 <p align="center">
-  <img align="center" width="64" src="" />
+  <img align="center" width="64" src="download.png" />
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
