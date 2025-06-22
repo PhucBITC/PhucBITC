@@ -4,6 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm NGUYEN VIET PHUC</h2>
 <p align="center">
+  <img align="center" width="64" src="" />
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
@@ -24,9 +25,6 @@
   <a href="https://github.com/PhucBITC" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="phucxo262@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
 </p>
 
 ## Skills:
