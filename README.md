@@ -29,18 +29,19 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48"/> 
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=2GRTwFZR2Tqj&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"  width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"  width="48" height="48"/>
 </p>
 
 ## Activities:
@@ -48,8 +49,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucBITC&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=PhucBITC&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
       <p align="center"> 
