@@ -2,7 +2,7 @@
 <img align="right" width="64" src="https://avatars.githubusercontent.com/u/150812383?v=4" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm NGUYEN VIET PHUC</h2>
+<h2 align="center">Hi 👋 I'm NGUYEN VIET PHUC</h2>
 <p align="center">
   <img align="center" width="64" src="download.png" />
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
